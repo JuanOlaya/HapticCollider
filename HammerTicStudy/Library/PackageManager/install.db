@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "3ee6c452bc34",
+        "mtime": 1649154530804,
+        "size": 16210619,
+        "localPath": "C:\\Users\\Tilt Brush\\Documents\\Unity Projects\\HammerTicStudy-20220404T191127Z-001\\HammerTicStudy\\HammerTicStudy\\Assets\\SteamVR\\OpenVRUnityXRPackage\\Editor\\com.valvesoftware.unity.openvr-1.1.4.tgz"
+      }
+    }
+  }
+}

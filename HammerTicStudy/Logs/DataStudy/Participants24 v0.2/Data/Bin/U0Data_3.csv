@@ -1,0 +1,3 @@
+take start: 1649238391143
+UserId;Timestamp;Condition;T1Start;T1End;T2Start;T2End;FillValue;HammerBlowLocation1.x;HammerBlowLocation1.y;HammerBlowLocation1.z;HammerBlowLocation2.x;HammerBlowLocation2.y;HammerBlowLocation2.z;HammerBlowLocation3.x;HammerBlowLocation3.y;HammerBlowLocation3.z;HammerBlowLocation4.x;HammerBlowLocation4.y;HammerBlowLocation4.z;HammerBlowLocation5.x;HammerBlowLocation5.y;HammerBlowLocation5.z;HammerBlowSpeed1;HammerBlowSpeed2;HammerBlowSpeed3;HammerBlowSpeed4;HammerBlowSpeed5
+0;1649238391145;Nail_HammerTic;1649238365544;1649238391139;0;0;0,3193267;1,238277;0,4314042;0,3004382;1,201691;0,4314042;0,2848097;1,238277;0,4385327;0,2848097;1,238277;0,4314042;0,3158587;1,238277;0,4314041;0,01428214;0,009305939;0,03128192;0,01527628;0,01329195
